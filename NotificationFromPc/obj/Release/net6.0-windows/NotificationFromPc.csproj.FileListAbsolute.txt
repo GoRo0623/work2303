@@ -1,0 +1,17 @@
+C:\Users\kwkmt\source\repos\NotificationFromPc\bin\Release\net6.0-windows\NotificationFromPc.exe
+C:\Users\kwkmt\source\repos\NotificationFromPc\bin\Release\net6.0-windows\NotificationFromPc.deps.json
+C:\Users\kwkmt\source\repos\NotificationFromPc\bin\Release\net6.0-windows\NotificationFromPc.runtimeconfig.json
+C:\Users\kwkmt\source\repos\NotificationFromPc\bin\Release\net6.0-windows\NotificationFromPc.dll
+C:\Users\kwkmt\source\repos\NotificationFromPc\bin\Release\net6.0-windows\NotificationFromPc.pdb
+C:\Users\kwkmt\source\repos\NotificationFromPc\obj\Release\net6.0-windows\NotificationFromPc.csproj.AssemblyReference.cache
+C:\Users\kwkmt\source\repos\NotificationFromPc\obj\Release\net6.0-windows\NotificationFromPc.Form1.resources
+C:\Users\kwkmt\source\repos\NotificationFromPc\obj\Release\net6.0-windows\NotificationFromPc.csproj.GenerateResource.cache
+C:\Users\kwkmt\source\repos\NotificationFromPc\obj\Release\net6.0-windows\NotificationFromPc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwkmt\source\repos\NotificationFromPc\obj\Release\net6.0-windows\NotificationFromPc.AssemblyInfoInputs.cache
+C:\Users\kwkmt\source\repos\NotificationFromPc\obj\Release\net6.0-windows\NotificationFromPc.AssemblyInfo.cs
+C:\Users\kwkmt\source\repos\NotificationFromPc\obj\Release\net6.0-windows\NotificationFromPc.csproj.CoreCompileInputs.cache
+C:\Users\kwkmt\source\repos\NotificationFromPc\obj\Release\net6.0-windows\NotificationFromPc.dll
+C:\Users\kwkmt\source\repos\NotificationFromPc\obj\Release\net6.0-windows\refint\NotificationFromPc.dll
+C:\Users\kwkmt\source\repos\NotificationFromPc\obj\Release\net6.0-windows\NotificationFromPc.pdb
+C:\Users\kwkmt\source\repos\NotificationFromPc\obj\Release\net6.0-windows\NotificationFromPc.genruntimeconfig.cache
+C:\Users\kwkmt\source\repos\NotificationFromPc\obj\Release\net6.0-windows\ref\NotificationFromPc.dll
