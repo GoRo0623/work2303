@@ -5,6 +5,7 @@ using System.Net.Http.Headers;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace NotificationFromPc
 {
     public partial class Form1 : Form
@@ -16,7 +17,7 @@ namespace NotificationFromPc
         public async Task Send_Line_Notify()
         {
             string str = textBox1.Text;
-            string token = "accessToken";
+            string token = "";
             using (HttpClient client = new HttpClient())
             {
                 FormUrlEncodedContent content = new FormUrlEncodedContent(new Dictionary<string, string> { { "message", "\r\n" + str } });
@@ -31,6 +32,19 @@ namespace NotificationFromPc
             textBox2.Text = "sending..........";
             textBox2.Refresh();
             _ = Send_Line_Notify();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageDto messageDto = new MessageDto();
+            DbAccess dbAccess = new DbAccess();
+            dbAccess.Update();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            ListScreen f2 = new ListScreen();
+            f2.Show();
         }
     }
 }
